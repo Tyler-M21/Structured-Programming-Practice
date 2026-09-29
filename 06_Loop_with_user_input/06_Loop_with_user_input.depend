@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790616855 source:c:\users\lenovo\desktop\c code\assignments\06_loop_with_user_input\main.c
+	<stdio.h>
+	<stdlib.h>
+
